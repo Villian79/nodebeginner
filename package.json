@@ -1,0 +1,12 @@
+{
+  "name": "nodebeginner",
+  "version": "1.0.0",
+  "description": "Basic app which covers a sandbox node app usecase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Igor Vilinchuk",
+  "license": "ISC"
+}
